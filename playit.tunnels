@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "woman-redeem.gl.joinmc.link",
-          "assigned_srv": "woman-redeem.gl.joinmc.link",
+          "assigned_domain": "awards-discounts.gl.joinmc.link",
+          "assigned_srv": "awards-discounts.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "bb59ea0f-4ec4-44f1-8dcb-ad3ba055055b",
+          "id": "0038e4c0-9cea-4150-9475-bc17fd368dbf",
           "ip_hostname": "21.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 57438,
-          "port_start": 57437,
+          "port_end": 57611,
+          "port_start": 57610,
           "region": "global",
           "static_ip4": "147.185.221.21",
           "tunnel_ip": "2602:fbaf:0:1::15"
         },
         "status": "allocated"
       },
-      "created_at": "2024-08-07T19:42:37.858951Z",
+      "created_at": "2024-08-07T22:11:54.612655Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "8538ee0b-5c24-4ce6-a634-89943f67cc27",
+      "id": "6129579f-c106-4372-8c77-9a4805351389",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "0f1ab088-e2c5-4a68-9ebe-8752c67b6c78",
-          "agent_name": "git-hub-cd5e",
+          "agent_id": "350fa35b-be37-4c78-9e41-216dbe38d178",
+          "agent_name": "from-key-0bc3",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
@@ -49,56 +49,11 @@
       },
       "region": "global",
       "tunnel_type": "minecraft-java"
-    },
-    {
-      "active": true,
-      "alloc": {
-        "data": {
-          "assigned_domain": "saw-dead.gl.at.ply.gg",
-          "assigned_srv": null,
-          "assignment": {
-            "type": "shared-ip"
-          },
-          "id": "539016d8-8edb-4e42-bf5d-99e5b8c4655e",
-          "ip_hostname": "21.ip.gl.ply.gg",
-          "ip_type": "both",
-          "port_end": 3415,
-          "port_start": 3414,
-          "region": "global",
-          "static_ip4": "147.185.221.21",
-          "tunnel_ip": "2602:fbaf:0:1::15"
-        },
-        "status": "allocated"
-      },
-      "created_at": "2024-08-07T19:43:50.563918Z",
-      "disabled_reason": null,
-      "domain": null,
-      "expire_notice": null,
-      "firewall_id": null,
-      "id": "ca2788a0-3e6b-4bce-8eb4-8993cb6c3ca1",
-      "name": "unnamed",
-      "origin": {
-        "data": {
-          "agent_id": "0f1ab088-e2c5-4a68-9ebe-8752c67b6c78",
-          "agent_name": "git-hub-cd5e",
-          "local_ip": "127.0.0.1",
-          "local_port": 3414
-        },
-        "type": "agent"
-      },
-      "port_count": 1,
-      "port_type": "udp",
-      "ratelimit": {
-        "bytes_per_second": null,
-        "packets_per_second": null
-      },
-      "region": "global",
-      "tunnel_type": null
     }
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 1,
-    "desired": 1
+    "claimed": 0,
+    "desired": 0
   }
 }
